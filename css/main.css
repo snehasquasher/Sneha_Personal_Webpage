@@ -1296,10 +1296,10 @@
    transition: all 0.3s ease-in-out;
  }
  #header-menu-trigger.opaque {
-   background-color: #000000;
+   background-color: #c76eb4;
  }
  #header-menu-trigger.opaque .header-menu-text {
-   background-color: #000000;
+   background-color: #b85dbb;
  }
  #header-menu-trigger:hover, #header-menu-trigger:focus {
    color: #FFFFFF;
@@ -1433,7 +1433,7 @@
    height: 30px;
    width: 30px;
    border-radius: 3px;
-   background-color: rgba(0, 0, 0, 0.3);
+   background-color: rgba(212, 156, 210, 0.3);
    position: absolute;
    top: 36px;
    right: 30px;
