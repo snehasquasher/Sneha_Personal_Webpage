@@ -1,5 +1,6 @@
 
-* ===================================================================
+/* 
+===================================================================
 *
 *  Infinity v1.0 Main Stylesheet
 *  01-02-2017
@@ -36,8 +37,6 @@
 @import url("fonts.css");
 
 
- 
- 
  /* ===================================================================
   *  02. base style overrides - (_document-setup)
   *
@@ -841,7 +840,7 @@
          text-align: center;
        }
        
-       </style> 
+     
 /* -------------------------------------------------------------------
   * links - (_document-setup)
   * ------------------------------------------------------------------- */
@@ -881,12 +880,13 @@
     vertical-align: middle;
     height: 100%;
  }
+
  header .banner {
     display: inline-block;
     vertical-align: middle;
     margin: 0 auto;
     width: 85%;
-    padding-bottom: 30px;s
+    padding-bottom: 30px;
     text-align: center;
  }
  
