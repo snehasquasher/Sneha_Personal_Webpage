@@ -63,7 +63,7 @@
  }
  
  body {
-   background: #111111;
+   background: #c243bb;
    font-family: "librebaskerville-regular", serif;
    font-size: 1.6rem;
    line-height: 3rem;
@@ -1160,7 +1160,7 @@
    display: inline-block;
    height: 1px;
    width: 200px;
-   background-color: rgba(242, 242, 242, 0.1);
+   background-color: rgba(219, 95, 209, 0.829);
    text-align: center;
  }
  
