@@ -1060,7 +1060,7 @@ ul#nav li a {
   line-height: 32px;
  text-decoration: none;
   text-align: left;
-  color:grey;
+  color:rgb(14, 13, 13);
 
  -webkit-transition: color .2s ease-in-out;
  -moz-transition: color .2s ease-in-out;
@@ -1070,7 +1070,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #38082a; }
 
 header {
   width: 100%;
@@ -1377,7 +1377,7 @@ header .row {
    background-color: #c76eb4;
  }
  #header-menu-trigger.opaque .header-menu-text {
-   background-color: #b85dbb;
+   background-color: #da7add;
  }
  #header-menu-trigger:hover, #header-menu-trigger:focus {
    color: #FFFFFF;
@@ -1646,7 +1646,7 @@ header .row {
    font-family: "montserrat-bold", serif;
    font-size: 9rem;
    line-height: 1.133;
-   color: #FF0077;
+   color: #da5794;
  }
  .home-content-tablecell h1 {
    font-family: "montserrat-bold", serif;
