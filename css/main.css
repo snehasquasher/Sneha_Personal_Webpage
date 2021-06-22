@@ -1007,14 +1007,7 @@
    color: #4f4f4f;
  }
 
- /*!-- navbar 
- ================================================== -->*/
- /* Add a black background color to the top navigation */
 
-.topnav {
-  background-color: rgba(173, 166, 166, 0.521);
-  overflow: hidden;
-}
 
 /* Style the links inside the navigation bar */
  /* primary navigation (Sunwoo_Kang)n
