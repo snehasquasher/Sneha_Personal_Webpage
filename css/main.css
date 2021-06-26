@@ -1576,18 +1576,7 @@ header .row {
    }
  }
  
- /* ===================================================================
-  *  new. resolutions - (_layout.scss)
-  *
-  * ------------------------------------------------------------------- */
  
- .section-title{
-    margin-top: 4.2rem;
-    margin-right: -30px;
-    margin-left: -30px;
-    font-size: h50; 
-}
-
 
 
  /* ===================================================================
@@ -1595,11 +1584,12 @@ header .row {
   *
   * ------------------------------------------------------------------- */
  #home {
- 
+  position: relative; 
+
    background-color: #b06bb6;
    background-image: url(../images/contact-bg.jpg);
    background-repeat: no-repeat;
-   background-position: center;
+   background-position: center center;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    background-size: cover;
