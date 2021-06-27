@@ -1763,8 +1763,7 @@ header .row {
   min-height: 800px;
   position: relative;
   padding: 0;
-  height: 100% ;
-  width: 100%;
+ 
 }
 #portfolio .intro-wrap {
   padding: 15rem 0 21rem;
