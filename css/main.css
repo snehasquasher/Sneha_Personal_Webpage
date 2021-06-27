@@ -2216,6 +2216,69 @@ header .row {
      line-height: 1.5;
    }
  }
+
+ /* ===================================================================
+  *  13. investment - (_layout.scss)
+  *
+  * ------------------------------------------------------------------- */
+  #investment {
+    background: #FFFFFF;
+    min-height: 800px;
+    position: relative;
+    padding: 0;
+  }
+  #investment .intro-wrap {
+    padding: 15rem 0 21rem;
+    background:lightblue;
+  }
+  #investment .intro {
+    color: #F06000;
+  }
+  .stocks img {
+   height: 15rem;
+   width: 15rem;
+   border-radius: 50%;
+   margin: 5rem 0 0 0;
+   float: none;
+ }
+ .dropdown-item {
+   color:white;
+   width: 100px;
+   display: none;
+   margin-bottom: 10px;
+ }
+ .slack:hover .dropdown-item {
+   display: block;
+   position: relative;
+   font-size: 22px;
+   top:30px;
+   width: initial;
+ }
+ .delta:hover .dropdown-item {
+   display: block;
+   position: relative;
+   font-size: 22px;
+   top: 45px;
+   width: initial;
+ }
+ .lemonade:hover .dropdown-item {
+   display: block;
+   position: relative;
+   font-size: 22px;
+   top: 45px;
+   width: initial;
+ }
+ .vodafone:hover .dropdown-item {
+   display: block;
+   position: relative;
+   font-size: 22px;
+   top: 45px;
+   width: initial;
+ }
+  #investment .thesis{
+    margin:10px;
+    padding: 40px;
+  }
  
  
  /* -------------------------------------------------------------------
